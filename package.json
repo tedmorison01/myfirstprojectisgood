@@ -5,6 +5,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
+    "start": "node server.js",
     "dev": "netlify dev",
     "build": "echo 'No build step required'"
   },
